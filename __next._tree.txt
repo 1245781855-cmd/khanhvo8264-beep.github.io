@@ -1,0 +1,4 @@
+:HL["/khanhvo8264-beep.github.io/_next/static/chunks/2o3z89frz7ho_.css","style"]
+:HL["/khanhvo8264-beep.github.io/_next/static/chunks/3kg9bnhtn3bk7.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"Bg8IHKdSn9H13yUP8qcUk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
